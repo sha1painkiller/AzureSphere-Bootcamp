@@ -1,0 +1,31 @@
+What is Azure Sphere
+https://azure.microsoft.com/en-us/services/azure-sphere/
+
+Azure Sphere Documentation
+https://docs.microsoft.com/en-us/azure-sphere/ 
+
+Getting Started
+https://azure.microsoft.com/en-us/services/azure-sphere/get-started/
+
+For dev board, claim your device
+https://docs.microsoft.com/en-us/azure-sphere/install/claim-device
+
+Sample codes
+https://github.com/Azure/azure-sphere-samples
+
+Hardware design reference (RDB file)
+https://github.com/Azure/azure-sphere-hardware-designs
+
+Manufacturing 
+https://docs.microsoft.com/en-us/azure-sphere/hardware/hardware-manufacturing-overview
+
+Azure Sphere API (A7)
+https://docs.microsoft.com/en-ca/azure-sphere/reference/applibs-reference/api-overview
+ 
+Guardian Module
+https://docs.microsoft.com/en-us/azure-sphere/hardware/guardian-modules
+https://azure.microsoft.com/en-us/blog/guardian-modules-bringing-azure-sphere-security-to-brownfield-iot/
+ 
+7 Properties (white paper)
+https://docs.microsoft.com/en-us/azure-sphere/product-overview/azure-sphere-seven-properties
+
