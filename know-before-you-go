@@ -1,0 +1,17 @@
+Important notes for Hands-on attendees 
+Before coming to the hands-on lab, you should make the environment ready:
+
+For Windows users:
+. Laptop with Windows 10 Operating System
+· Install Visual Studio 2019 : https://visualstudio.microsoft.com/vs/
+· Install Azure Sphere SDK : https://docs.microsoft.com/en-us/azure-sphere/install/install-sdk#azure-sphere-sdk-preview-for-visual-studio
+
+For Ubuntu users:
+. Laptop with Ubuntu LTS 18.04
+. Install VS code
+. Install Azure Sphere SDK for VS code
+
+All:
+· Get a Microsoft Account (skip if you already have an account) : https://account.microsoft.com/account
+· Create an Azure free account (skip if you already did) : https://azure.microsoft.com/en-us/free/
+ 
